@@ -1,0 +1,418 @@
+.content_box {
+  /* border: 2px solid red; */
+  height: 650px;
+  width: 100%;
+  background-color: #8ea2a7;
+  display: flex;
+  padding: 20px;
+  margin-bottom: 0px;
+  /* margin-top: 40px; */
+  /* padding-top: 4px;
+    padding-left: 40px; */
+  /* background-color: red ; */
+  /* background:linear-gradient(rgb(234, 231, 245), rgb(219, 215, 240)); */
+}
+
+.first_box {
+  /* border: 2px solid red; */
+  height: 100%;
+  width: 30%;
+  /* margin-left: 20px; */
+  /* background-color: rgb(240, 121, 52); */
+}
+
+.second_box {
+  /* border: 2px solid red; */
+  height: 100%;
+  width: 30%;
+  /* margin-left: 20px; */
+  /* background-color: rgb(27, 119, 155); */
+}
+.third_box {
+  /* border: 2px solid red; */
+  height: 100%;
+  width: 30%;
+  /* margin-left: 20px; */
+  /* background-color: rgb(102, 10, 94); */
+}
+
+.bxx {
+  margin: 15px;
+  padding: 10px;
+}
+.bxx p {
+  font-size: 18px;
+}
+.bxx h1 {
+  font-size: 26px;
+  color: #173866;
+  text-decoration: underline;
+  text-align: center;
+}
+
+.image_boxAb {
+  margin-top: 20px;
+  height: 70%;
+  width: 100%;
+  background-color: aliceblue;
+}
+
+.bx1 {
+  height: 20%;
+}
+
+.image_boxAb img {
+  /* margin-top: 10px; */
+  width: 100%;
+  height: 100%;
+}
+
+.image_boxAbc {
+  height: 80%;
+  width: 100%;
+  background-color: #173866;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.animatinct {   
+  position: absolute;
+  /* background-color: red; */
+  bottom: -30%;
+  animation: animictup 8s linear infinite;
+}
+.animatinct p {
+  color: white;
+  font-size: 13px;
+}
+
+.para-content p {
+  font-size: 13px;
+  margin-top: 5px;
+}
+
+.third_content_box {
+  height: 400px;
+  /* background: url("/public/images/slide1.webp");*/
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: -5px;
+  margin: 20px;
+  /* border: 2px solid red; */
+  /* background-color: red; */
+  /* background:linear-gradient(rgb(234, 231, 245), rgb(219, 215, 240)); */
+}
+/* .new-div{
+    background:linear-gradient(rgb(234, 231, 245), rgb(219, 215, 240));
+} */
+
+.academic_planner {
+  width: 350px;
+  height: 300px;
+}
+
+.accontent {
+  height: 10%;
+  text-align: center;
+  margin-bottom: 25px;
+}
+.accontent p {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.imgggbox1 {
+  background: url("/public/academicplanner.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.igg {
+  height: 40%;
+  width: 40%;
+}
+
+.igg img {
+  height: 100%;
+  width: 100%;
+}
+
+.imgggbox13 {
+  background: #173866;
+}
+.imgggbox12 {
+  background: url("/public/classroom.jpg");
+  background-position: center;
+  background-size: cover;
+}
+.igg1 {
+  height: 100%;
+  width: 100%;
+}
+
+.fourth_content_box {
+  height: 500px;
+  /* background: url("/public/images/slide1.webp"); */
+  background-color: #173866;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 50px;
+  background-repeat: no-repeat;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  /* background:linear-gradient(rgb(234, 231, 245), rgb(219, 215, 240)); */
+}
+
+.fouthmain {
+  width: 90%;
+  /* background-color: red; */
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+.fourthOne {
+  width: 50%;
+  height: 100%;
+  /* background-color: rgb(72, 214, 96); */
+  margin: 20px;
+}
+
+.ffone {
+  height: 10%;
+  width: 100%;
+  color: white;
+  margin-bottom: 15px;
+}
+.ffslider {
+  height: 80%;
+  width: 100%;
+  background-color: #173866;
+  position: relative;
+}
+
+.ffbutton {
+  height: 10%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.ffbutton button {
+  padding: 2px 10px;
+  font-size: 12px;
+  border: none;
+}
+
+.abcd {
+  height: 100%;
+  width: 100%;
+}
+
+.abcd .jhk {
+  height: 305px;
+  width: 100%;
+}
+
+.abcd .kppp {
+  height: 250px;
+  width: 100%;
+}
+.abcd .kppp:nth-child(2) {
+  height: 250px;
+  width: 100%;
+}
+
+.abcd .kppp img {
+  height: 100%;
+  width: 100%;
+}
+
+.abcd .jhk img {
+  height: 100%;
+  width: 100%;
+}
+
+.cardSliderimage {
+  /* background:linear-gradient(rgb(234, 231, 245), rgb(219, 215, 240)); */
+  /* margin: 50px 20px; */
+  padding: 50px 0px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* background-color: rgb(210, 241, 250); */
+}
+
+.latest {
+  width: 90%;
+  /* background-color: red; */
+  display: block;
+}
+
+
+.newsevent {
+  color: #173866;
+}
+
+.slidercarouse {
+  display: none;
+  padding: 0px 50px;
+}
+
+@media screen and (max-width: 900px) {
+  .img-school img {
+    height: 250px;
+  }
+  .img-principle img {
+    height: 250px;
+  }
+  .content_box {
+    /* border: 2px solid red; */
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  #sliderboximg {
+    display: none;
+  }
+
+  .slidercarouse {
+    display: block;
+    padding: 20px;
+  }
+
+  .kppp {
+    height: 250px;
+    width: 100%;
+    background-position: center;
+
+    /* position: relative; */
+  }
+  .kppp:nth-child(1) {
+    background-position: center;
+  }
+
+  .kppp img {
+    height: 100%;
+    width: 100%;
+  }
+  .kppp h4,
+  h6 {
+    margin-top: 10px;
+  }
+
+  .first_box {
+    height: 100%;
+    width: 100%;
+    /* background-color: rgb(240, 121, 52); */
+  }
+
+  .second_box {
+    height: 100%;
+    width: 100%;
+    /* background-color: rgb(27, 119, 155); */
+  }
+  .third_box {
+    height: 100%;
+    width: 100%;
+    /* background-color: rgb(102, 10, 94); */
+  }
+  .bxx {
+    margin: 15px;
+    padding: 10px 30px 10px 0px;
+  }
+
+  .image_boxAbc {
+    height: 350px;
+    width: 100%;
+    background-color: #173866;
+  }
+
+  .third_content_box {
+    /* border: 2px solid red; */
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 0 10px;
+    margin-bottom: 20px;
+    background: linear-gradient(rgb(234, 231, 245), rgb(219, 215, 240));
+  }
+
+  .academic_planner {
+    width: 90%;
+    height: 250px;
+    margin: 10px;
+    margin-bottom: 70px;
+  }
+
+  .fourth_content_box {
+    height: auto;
+    background-color: #173866;
+    padding: 20px;
+    flex-direction: column;
+  }
+
+  .fouthmain {
+    width: 100%;
+    /* background-color: red; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .fourthOne {
+    width: 100%;
+    height: 100%;
+    margin: 20px;
+  }
+
+  .ffone {
+    height: 10%;
+    width: 100%;
+    color: white;
+  }
+  .ffslider {
+    height: 300px;
+    width: 100%;
+    background-color: #173866;
+    position: relative;
+  }
+
+  .ffbutton {
+    margin-top: 20px;
+  }
+
+  .ffbutton button {
+    padding: 2px 10px;
+    font-size: 12px;
+    border: none;
+  }
+}
+
+@keyframes animictup {
+  0% {
+    transform: translate(0);
+  }
+  100% {
+    transform: translateY(-480%);
+  }
+}

@@ -1,0 +1,137 @@
+.calendar-container,
+.calendar,
+.calendar-header,
+td,    
+tr {
+    padding: 0;
+    margin: 0;
+}
+
+.calendar-container {
+    /* border: 2px solid skyblue; */
+    padding: 0px 15px 0px 15px;
+    height: 400px;
+}
+
+.calendar {
+    /* background-color: white; */
+    border-spacing: 0;
+    /* background-color:#CBDCF8; */
+    background-color :#c5c7c9;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.calendar-header {
+    /* border-bottom: 1px dashed skyblue; */
+    font-size: 1.6em;
+    background-color :#c5c7c9;  
+    /* background-color:#CBDCF8; */
+    /* background-color:red; */
+     width:100%;
+}
+    /* calender header */
+.calendar-header td {
+    border-spacing: 0;
+    padding-left: 5px;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+
+.day,
+.empty-slot,
+.week-day {
+    text-align: center;
+    height: 24px;
+    color: #fff;
+    background-color:#4b4c4d;
+    border:1px solid white;
+}
+
+.week-day {
+     font-size:15px;
+     font-weight:600;
+    /* font-size: 0.8em; */
+}
+
+    /* font date size */
+.day {
+    /* font-size: 0.8em; */
+    font-size: 16px;
+    color:black;  
+}
+
+.day {
+     border:1px solid white;
+    cursor: pointer;
+    width: 40px;
+    height: 53px;
+    line-height: 24px;
+     /* background-color:#CBDCF8; */
+     background-color :#c5c7c9; 
+}
+
+ /* current date selected */
+
+.current-day {
+    /* background-color: #4285f4; */
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    border-radius: 2%;
+    /* color: white; */
+    background-color:#34414e;
+    color:#fff;
+    font-weight: 900;
+}
+.selected-day {
+    background-color:yellow;
+    width: 28px;
+    height: 28px;
+    line-height: 28px;
+    border-radius: 2%;
+    color: black;
+}
+
+.month-popup {
+    position: absolute;
+    padding: 5px;
+    background: white;
+    border: 2px solid skyblue;
+}
+
+.month-popup div {
+    padding: 0.3em;
+}
+
+.nav-month {
+     font-size:18px;
+    position: absolute;
+    top: 4.1em;
+    /* font-size: 0.6em; */
+    right:12px;
+
+}
+
+.prev {
+  margin-right:20px;
+  margin-top:50px;
+  margin-left:20px;
+}
+
+.next {
+}
+
+.editor-year {
+    max-width: 3.6em;
+}
+
+.label-month,
+.label-year {
+    /* font-size: 0.6em; */
+    font-size:25px;
+}
+
+.label-month {
+    cursor: pointer;
+}

@@ -1,0 +1,28 @@
+.eventmain-container {
+    background-color: #f1e7e7;
+}
+
+.eventgrid {
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px; /* Optional: Adds space between the sections */
+    padding: 20px; /* Optional: Adds padding inside the container */
+}
+
+.newsevent, .calendar, .topper {
+    flex: 1 1 300px;
+    max-width: 400px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd; /* Border style */
+    border-radius: 8px; /* Optional: Rounded corners */
+    padding: 20px; /* Adds padding inside each section */
+    background-color: #04869c; /* Background color for better visibility */
+}
+
+@media (max-width: 768px) {
+    .eventgrid {
+        flex-direction: column;
+    }
+}
