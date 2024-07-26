@@ -190,11 +190,11 @@ Titans International School
           </div>
           <div className="academic_planner">
             <div className="accontent">
-              <p>Republic Day</p>
+              <p>Christmas Day</p>
             </div>
             <div className="imgggbox1 imgggbox13">
               <div className="igg igg1">
-                <img src="./republicday.jpg" alt="" />
+                <img src="xmas.jpg" alt="" />
               </div>
             </div>
           </div>
@@ -212,14 +212,14 @@ Titans International School
                   <Carousel.Item className="jhk">
                     <img
                       className="d-block"
-                      src="./yogas1.jpg"
+                      src="kidsyoga.jpg"
                       alt="First slide"
                     />
                   </Carousel.Item>
                   <Carousel.Item className="jhk">
                     <img
                       className="d-block"
-                      src="./gallery8.jpg"
+                      src="acd.jpg"
                       alt="Second slide"
                     />
                   </Carousel.Item>
@@ -227,7 +227,7 @@ Titans International School
                   <Carousel.Item className="jhk">
                     <img
                       className="d-block"
-                      src="./gallery3.jpg"
+                      src="culture.jpg"
                       alt="Third slide"
                     />
                   </Carousel.Item>
@@ -235,7 +235,7 @@ Titans International School
                   <Carousel.Item className="jhk">
                     <img
                       className="d-block"
-                      src="./gallery4.jpg"
+                      src="building.jpg"
                       alt="Third slide"
                     />
                   </Carousel.Item>
