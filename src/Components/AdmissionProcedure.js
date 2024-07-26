@@ -16,12 +16,28 @@ const AdmissionProcedure = () => {
               <h4>Rule for Admission</h4>
 
               <p>
-              Admission is purely based on merit. admissions are to be sought through duly filled up registration cum admission form,
-which is to be submitted in School Office on or before the specified date.
-As per Government Rules students above 5 years of age only shall be admitted to class 1.
-For Higher classes add one year for each class
+1. **Merit-Based Admission:** Admission is granted based on merit. 
 
-No candidates shall be admitted without Transfer Certificate from the last school attended, countersigned by an appropriate authority, and in no case shall a student be permitted to attend classes pending formal admission. If a student comes from an unrecognized school he/she can be given provisional admission Eligibility test subject to approval by the educational authorities of the District in which the School is situated. In case of late admission of a student, the fee from the beginning of the First Term shall be charged unless otherwise ordered by the Principal.
+2. **Registration and Submission:**
+   - Complete the registration cum admission form.
+   - Submit the form to the School Office by the specified date.
+
+3. **Age Requirements:**
+   - **Class 1:** Students must be above 5 years of age.
+   - **Higher Classes:** Add one year for each subsequent class. For example, to enter Class 2, students must be at least 6 years old, and so on.
+
+4. **Transfer Certificate:**
+   - A Transfer Certificate from the last school attended, countersigned by an appropriate authority, is required for admission.
+   - No student will be allowed to attend classes until formal admission is completed.
+
+5. **Provisional Admission:**
+   - Students coming from unrecognized schools may receive provisional admission.
+   - Eligibility is subject to approval by the educational authorities of the District.
+
+6. **Late Admission Fees:**
+   - If admission occurs after the start of the school year, fees for the entire First Term will be charged unless otherwise directed by the Principal.
+
+These guidelines ensure that the admission process is clear, transparent, and in accordance with both school policies and government regulations.
               </p>
               <h5>
                 <b>A student may be removed by the school authorities on any of the following grounds:</b>
@@ -81,9 +97,9 @@ No candidates shall be admitted without Transfer Certificate from the last schoo
                 <b className="bbb">Email:</b>{" "}
                 <a
                   className="linkwrap mnc"
-                  href="mailto: shrinavniketan@rediffmail.com "
+                  href="mailto: admissions@titansinternational.com "
                 >
-                  shrinavniketan@rediffmail.com
+                  admissions@titansinternationalschool.com
                 </a>{" "}
               </p>
               </h5>
@@ -93,7 +109,15 @@ No candidates shall be admitted without Transfer Certificate from the last schoo
               For admissions to Buniyad (the pre primary section) the procedure is as follows:
               </p>
               <p>
-              The child along with the parents will be invited to a brief meeting with the Director / Head of Buniyad where the two sides will interact. This interaction will determine whether the parents are involved with the upbringing of the child, and whether they will be able to participate with the school in the holistic education of the child.
+              As part of the admission process at Naveen Vidya Bharti Hr. Sec. School, the following meeting is conducted:
+
+1. **Meeting Invitation:** Both the child and their parents will be invited to a brief meeting with the Director or Head of Buniyad.
+
+2. **Purpose of the Meeting:**
+   - **Parental Involvement:** The meeting will assess the level of parental involvement in the childs upbringing.
+   - **Collaborative Approach:** It will also determine how well parents can collaborate with the school to support the childs holistic education.
+
+This interaction helps ensure that there is a shared commitment to the child's development and aligns both the family's and the schools educational goals.
               </p>
               {/* <div className="form">
                 <h5><b>Admission form:</b></h5>

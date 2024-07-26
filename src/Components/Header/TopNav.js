@@ -35,7 +35,7 @@ const TopNav = () => {
             </h1>
             <p style={{ color: "#ffffff" }}>
               Spreading Education in Excellence<br></br>
-              SINCE 2024
+              SINCE 1999
             </p>
           </div>
         </div>

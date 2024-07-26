@@ -7,49 +7,31 @@ const Chairman = () => {
       <div className="director-sid">
         <div className="director-sid-row">
           <div className="director-sid-col chair">
-            <img src="./img/chair1.jpeg" />
-            <h5>Mr.Shyam Narayan Mishra</h5>
+            <img src="chairmain.jpg" />
+            <h5>Mr. Joseph Stalin</h5>
           </div>
           <div className="director-sid-col">
             <h2>Director Message</h2>
             <h6>
-              Dear Parent & Students, It gives me great pleasure to welcome you
-              to Naveen Vidya Bharti Hr. Sec. School. A child’s world is a
-              beautiful yet mysterious tapestry made up of a multitude of hopes
-              and aspirations dyed in incandescent colours of thought and deed
-              and their world is very much influenced by the school environment
-              as they spend most of their childhood in school. Thus, schooling
-              has the greatest influence on an individual’s life. It should
-              enable the child to blossom into a well-balanced person, healthy
-              in mind and spirit. Let education help dear Aryans to empower
-              themselves and transform the world into a place where truth,
-              justice, liberty, and equality have the sway. As I glance back at
-              the performance of the children in various activities during the
-              last academic year, be it curricular, co-curricular, I can
-              confidently say that our students have certainly made us, parents
-              and teachers proud of their achievements. The school endeavours to
-              equip its students to excel in academics, and to be savvy in the
-              use of technology. But equally, knowledge is to become a
-              liberating experience as the child is encouraged to discover his
-              interests, his talents and aptitudes, and learn to form his
-              opinions and role in society. We, at The NVBHSS, strive hard to
-              create more interesting and meaningful learning experiences,
-              through which our student will be able to develop the most
-              relevant skills, habits, and character attributes. We see no
-              substitute for the patient efforts of teacher and student sitting
-              at the table and in regular consultation, learning together. We
-              are a community of learners, where excellence is a shared pursuit.
-              We learn together in a living community where each of us is a
-              valued citizen with important contributions to make. The implicit
-              promise of The NVBHSS School has always been a transformative
-              education, rooted in the highest standards of academic excellence,
-              nurtured by The NVBHSS values, and enriched by the opportunity to
-              learn in the best settings. May you all continue to scale greater
-              and insurmountable heights of excellence. I take this opportunity
-              to congratulate the principal, staff, and students; every effort
-              of the team is highly appreciated who has contributed towards
-              making learning so meaningful.. I welcome you to be a part of
-              NVBHSS family!
+            **Dear Parents and Students,**
+
+It is with great pleasure that I welcome you to Titans International School (TIS). A childs world is a beautiful and complex tapestry, woven with hopes and dreams, and vibrant with the colors of thought and action. As children spend a significant part of their formative years in school, the environment here profoundly influences their growth and development. Therefore, our mission is to foster an atmosphere where each child can flourish into a well-balanced individual, healthy in mind and spirit.
+
+Education at NVBHSS is designed not just to impart knowledge but to empower our students to transform the world into a place of truth, justice, liberty, and equality. Reflecting on the past academic year, it is clear that our students have made us proud with their achievements in both curricular and co-curricular activities. Our goal is to equip students with the skills to excel academically while also embracing technological advancements. 
+
+However, education here is more than academic success; it is about discovery. We encourage students to explore their interests, talents, and aptitudes, helping them to form their own opinions and understand their role in society. At TIS, we strive to create engaging and meaningful learning experiences that develop essential skills, habits, and character attributes.
+
+Our approach is built on the collaborative efforts of teachers and students, learning together at the table, fostering a community where excellence is a shared pursuit. Each member of our community is valued and contributes to our collective success.
+
+TIS promises a transformative education rooted in high standards of academic excellence, guided by our core values, and enriched by exceptional learning environments. I extend my congratulations to the Principal, staff, and students for their dedicated efforts that make learning meaningful.
+
+Welcome to the NVBHSS family! Together, let us continue to reach new heights of excellence.
+
+Warm regards,
+
+[Joseph]  
+[Stalin]  
+Titans International School
             </h6>
           </div>
         </div>

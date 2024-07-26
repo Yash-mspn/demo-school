@@ -9,7 +9,7 @@ const Facilities = () => {
             {/* swimming */}
             <div className="facilitCard">
               <div className="facilimages">
-                <img src="./yogas1.jpg" alt="" />
+                <img src="kidsyoga.jpg" alt="" />
               </div>
               <div className="facontent">
                 <div className="factitle">Fitness & Yoga</div>
