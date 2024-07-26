@@ -8,18 +8,18 @@ const Footer = () => {
         <div className="footer-top">
           <div className="footerlogo-img" >
             <img style={{backgroundColor: "transparent",
-              borderRadius: "30%",}} src="./logo.jpg" alt="" />
+              borderRadius: "30%",}} src="logo.png" alt="" />
           </div>
           <div className="footer-content">
             <p>Have any questions?</p>
             <p>
               Call Us: +116254481 , Mail Us:
-              info@almustansiriyschool.com
+              info@titansinternationalschool.com
             </p>
             <p>
               <p>Visit us at:</p>
               <p>
-              Iraq, Baghdad, Palastine St             
+              10 dowing street, West miniter, London.            
                </p>
 
             </p>
@@ -59,7 +59,7 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>© All Rights Reserved by,Mustansiriyah School</p>
+          <p>© All Rights Reserved by, Titans International School</p>
           <p className="footer-made">
             Made with <i class=" ri-heart-3-fill"></i> by{" "}
             <a href="https://www.titans-inc.com/"> Titans Inc</a>
