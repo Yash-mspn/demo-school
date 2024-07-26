@@ -83,17 +83,23 @@ const Home = () => {
               <h1 style={{color:'HighlightText'}}>Shri Nav Niketan</h1>
            
             <div className="image_boxAb img-school">
-              <img src="./bding.jpeg" alt="" />
+              <img src="building.jpeg" alt="" />
             </div>
 
             <div className="para-content">
               <p style={{fontStyle:'italic', fontSize:'20', color:'#000000'}}>
-              Shri Nav Niketan School is based in city of lake
-                Bhopal. Shri Nav Niketan School is recognized as a
-                developmentally enriching learning space, making learning fun
-                for children. Shri Nav Niketan School was founded
-                and established in June 2004.
-                <Link to="/ourSchool">read more</Link>
+              **Titans International School**, located at 10 Downing Street, Westminster, London, is recognized as a developmentally enriching learning environment that makes education both enjoyable and effective for children. 
+
+Heres an overview of Titans International School:
+
+- **Location:** Situated at the prestigious 10 Downing Street, Westminster, London, the school benefits from a prominent and inspiring setting.
+
+- **Educational Approach:** Known for its commitment to creating a developmentally enriching space, Titans International School focuses on making learning fun and engaging for students. 
+
+- **Foundation and Growth:** Established in 1999, the school has a long-standing tradition of providing high-quality education and continually adapting to meet the needs of its students.
+
+Titans International School remains dedicated to offering an exceptional educational experience, combining innovative teaching methods with a supportive environment to ensure each child’s growth and success.
+                {/* <Link to="/ourSchool">read more</Link> */}
               </p>
             </div>
           </div>
@@ -102,15 +108,24 @@ const Home = () => {
               <h1 style={{color:'HighlightText'}}>Director's Message</h1>
            
             <div className="image_boxAb img-principle">
-              <img src="./director.jpg" alt="" />
+              <img src="chairman.jpg" alt="" />
             </div>
             <div className="para-content">
               <p style={{fontStyle:'italic', fontSize:'20', color:'#000000'}}>
-                Dear Parent & Students, It gives me great pleasure to welcome
-                you to Shri Nav Niketan School. The school is
-                committed to inculcating in all our students; strong ethical
-                valued of integrity respect.
-                <Link to="/director"> read more</Link>
+              **Dear Parents and Students,**
+
+It gives me great pleasure to welcome you to **Titans International School**. At our school, we are dedicated to nurturing a strong foundation of ethical values in all our students, emphasizing integrity and respect. 
+
+Our commitment is to instill these core values through every aspect of our educational approach, ensuring that each student not only excels academically but also grows into a principled and respectful individual.
+
+We look forward to a productive and enriching journey together.
+
+Warm regards,
+
+[Joseph]  
+[Stalin]  
+Titans International School
+                {/* <Link to="/director"> read more</Link> */}
               </p>
             </div>
           </div>
@@ -119,14 +134,22 @@ const Home = () => {
               <h1 style={{color:'HighlightText'}}>Principal's Message</h1>
           
             <div className="image_boxAb img-principle">
-              <img src="./director.jpg" alt="" />
+              <img src="principal.jpg" alt="" />
             </div>
             <div className="para-content">
               <p style={{fontStyle:'italic', fontSize:'20', color:'#000000'}}>
-                Welcome to Shri Nav Niketan School, a home built on
-                decades of value imbued traditions. As educators, we understand
-                that children learn more from what you are and what you do than
-                what you say. <Link to="/principal">read more</Link>
+              **Welcome to Titans International School**, a place deeply rooted in decades of tradition and values. As educators, we recognize that children learn more from our actions and behaviors than from our words. Our commitment is to embody and model the principles of integrity, respect, and excellence in everything we do. 
+
+Here at Titans International School, we strive to create an environment where these values are not just taught but lived, ensuring that every student not only learns but grows into a responsible and principled individual. 
+
+We are excited to embark on this journey with you, where together, we will foster a nurturing and inspiring learning experience.
+
+Warm regards,
+
+[Mao]  
+[Senpai]  
+Titans International School
+                 {/* <Link to="/principal">read more</Link> */}
               </p>
             </div>
           </div>
