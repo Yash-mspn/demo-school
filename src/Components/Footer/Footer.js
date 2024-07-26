@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer-top">
           <div className="footerlogo-img" >
             <img style={{backgroundColor: "transparent",
-              borderRadius: "30%",}} src="logo.png" alt="" />
+              borderRadius: "30%",}} src="public/logo.png" alt="" />
           </div>
           <div className="footer-content">
             <p>Have any questions?</p>
