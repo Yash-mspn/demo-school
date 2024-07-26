@@ -83,22 +83,16 @@ const Home = () => {
               <h1 style={{color:'HighlightText'}}>Shri Nav Niketan</h1>
            
             <div className="image_boxAb img-school">
-              <img src="building.jpeg" alt="" />
+              <img src="building.jpg" alt="" />
             </div>
 
             <div className="para-content">
               <p style={{fontStyle:'italic', fontSize:'20', color:'#000000'}}>
-              **Titans International School**, located at 10 Downing Street, Westminster, London, is recognized as a developmentally enriching learning environment that makes education both enjoyable and effective for children. 
-
-Heres an overview of Titans International School:
-
-- **Location:** Situated at the prestigious 10 Downing Street, Westminster, London, the school benefits from a prominent and inspiring setting.
+              **Titans International School**, located at 10 Downing Street, Westminster, London, is recognized as a developmentally enriching learning environment that makes education both enjoyable and effective for children.
 
 - **Educational Approach:** Known for its commitment to creating a developmentally enriching space, Titans International School focuses on making learning fun and engaging for students. 
 
 - **Foundation and Growth:** Established in 1999, the school has a long-standing tradition of providing high-quality education and continually adapting to meet the needs of its students.
-
-Titans International School remains dedicated to offering an exceptional educational experience, combining innovative teaching methods with a supportive environment to ensure each child’s growth and success.
                 {/* <Link to="/ourSchool">read more</Link> */}
               </p>
             </div>
@@ -108,7 +102,7 @@ Titans International School remains dedicated to offering an exceptional educati
               <h1 style={{color:'HighlightText'}}>Director's Message</h1>
            
             <div className="image_boxAb img-principle">
-              <img src="chairman.jpg" alt="" />
+              <img src="chairmain.jpg" alt="" />
             </div>
             <div className="para-content">
               <p style={{fontStyle:'italic', fontSize:'20', color:'#000000'}}>
@@ -177,7 +171,9 @@ Titans International School
               <p>Academic Planner</p>
             </div>
             <div className="imgggbox1">
-              <div className="igg"></div>
+              <div className="igg">
+              <img src="acd.jpg" alt="" />
+              </div>
             </div>
           </div>
           <div className="academic_planner">
@@ -185,7 +181,9 @@ Titans International School
               <p>Class Room</p>
             </div>
             <div className="imgggbox1 imgggbox12">
-              <div className="igg"></div>
+              <div className="igg">
+              <img src="school.jpg" alt="" />
+              </div>
             </div>
           </div>
           <div className="academic_planner">
@@ -264,7 +262,7 @@ Titans International School
                 <iframe
                   width="100%"
                   height="100%"
-                  src="https://www.youtube.com/embed/vkJmQP6DfzQ?si=SAFjWiE5dpWzcRVA" 
+                  src="https://www.youtube.com" 
                   title=" Video Player"
                   frameborder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -276,7 +274,7 @@ Titans International School
                   href="https://youtu.be/vkJmQP6DfzQ?si=SAFjWiE5dpWzcRVA"
                   target="_blank"
                 >
-                  <button>View More</button>
+                  {/* <button>View More</button> */}
                 </a>
               </div>
             </div>
