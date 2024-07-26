@@ -6,7 +6,7 @@ const Principle = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('https://cms.maitretech.com/navniketan/items/principle_message?fields=*.*');
+        const response = await fetch('https://cms.maitr-etech.com/navniketan/items/principle_message?fields=*.*');
         const data = await response.json();
 
         // Assuming data is structured like { data: [...] }
