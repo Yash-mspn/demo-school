@@ -19,7 +19,7 @@ const TopNav = () => {
       <div className="toptop">
         <div className="tonavbar1">
           <img
-            src="./logo.jpg"
+            src="logo.png"
             alt=""
             style={{
               backgroundColor: "transparent",
@@ -31,11 +31,11 @@ const TopNav = () => {
           />
           <div className="imp">
             <h1 style={{ color: "#ffffff", fontFamily:'serif' }}>
-              Shri Nav Niketan School
+              Titans International School
             </h1>
             <p style={{ color: "#ffffff" }}>
               Spreading Education in Excellence<br></br>
-              SINCE 1976
+              SINCE 2024
             </p>
           </div>
         </div>
