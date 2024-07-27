@@ -80,7 +80,7 @@ const Home = () => {
           <div className="first_box bxx">
             
              
-              <h1 style={{color:'HighlightText'}}>Shri Nav Niketan</h1>
+              <h1 style={{color:'HighlightText'}}>Titans International School</h1>
            
             <div className="image_boxAb img-school">
               <img src="building.jpg" alt="" />
