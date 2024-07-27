@@ -2,7 +2,7 @@
   /* border: 2px solid red; */
   height: 650px;
   width: 100%;
-  background-color: #8ea2a7;
+  background-color: #465255;
   display: flex;
   padding: 20px;
   margin-bottom: 0px;
@@ -54,7 +54,7 @@
   margin-top: 20px;
   height: 70%;
   width: 100%;
-  background-color: aliceblue;
+  background-color: rgb(59, 73, 86);
 }
 
 .bx1 {
@@ -70,7 +70,7 @@
 .image_boxAbc {
   height: 80%;
   width: 100%;
-  background-color: #173866;
+  background-color: #040b31;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -85,7 +85,7 @@
   animation: animictup 8s linear infinite;
 }
 .animatinct p {
-  color: white;
+  color:  rgb(54, 53, 53);
   font-size: 13px;
 }
 
@@ -126,7 +126,7 @@
 }
 
 .imgggbox1 {
-  background: url("/public/academicplanner.jpg");
+  background: url("acd.jpg");
   background-position: center;
   background-size: cover;
   height: 100%;
@@ -149,7 +149,7 @@
   background: #173866;
 }
 .imgggbox12 {
-  background: url("/public/classroom.jpg");
+  background: url("school.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -161,7 +161,7 @@
 .fourth_content_box {
   height: 500px;
   /* background: url("/public/images/slide1.webp"); */
-  background-color: #173866;
+  background-color: #040539;
   display: flex;
   align-items: center;
   justify-content: space-around;
@@ -192,13 +192,13 @@
 .ffone {
   height: 10%;
   width: 100%;
-  color: white;
+  color: rgb(54, 53, 53);
   margin-bottom: 15px;
 }
 .ffslider {
   height: 80%;
   width: 100%;
-  background-color: #173866;
+  background-color: #041833;
   position: relative;
 }
 
@@ -388,12 +388,12 @@
   .ffone {
     height: 10%;
     width: 100%;
-    color: white;
+    color: rgb(54, 53, 53);
   }
   .ffslider {
     height: 300px;
     width: 100%;
-    background-color: #173866;
+    background-color: #03152e;
     position: relative;
   }
 

@@ -3,12 +3,12 @@ import React from 'react'
 const UniformDetails = () => {
   const slides = [
      
-    { title: "./uniform1.jpg", description: 'View Gallery' },
-    { title: "./uniform2.jpg ", description: 'View Gallery' },
-    { title: " ./is8.jpg ", description: 'View Gallery' },
-    { title: " ./uniform2.jpg ", description: 'View Gallery' },
-    { title: "./is15.jpg  ", description: 'View Gallery' },
-    { title: " ./is16.jpg ", description: 'View Gallery' },
+    // { title: "./uniform1.jpg", description: 'View Gallery' },
+    // { title: "./uniform2.jpg ", description: 'View Gallery' },
+    // { title: " ./is8.jpg ", description: 'View Gallery' },
+    // { title: " ./uniform2.jpg ", description: 'View Gallery' },
+    // { title: "./is15.jpg  ", description: 'View Gallery' },
+    // { title: " ./is16.jpg ", description: 'View Gallery' },
     
 
 ];

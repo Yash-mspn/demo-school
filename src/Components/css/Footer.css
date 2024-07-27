@@ -13,12 +13,12 @@
 
 .socialall a{
     text-decoration: none;
-    color: white;
+    color:  rgb(54, 53, 53);
 }
 
 .footer-top{
     /* height: 85%; */
-    background-color: #02485e;
+    background-color: #040a39;
     width: 100%;
     display: flex;
     align-items: center;
@@ -66,7 +66,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid rgb(143, 141, 141);
+    border: 1px solid rgb(89, 82, 82);
 
 }
 .alllink-soc i{
@@ -92,13 +92,13 @@ font-size: 12px;
 }
 .footer-bottom .footer-made a{
     text-decoration: none;
-    color: rgb(227, 220, 255);
+    color: rgb(129, 125, 145);
     font-weight: bold;
 }
 
 .footer-bottom .footer-made  i{
     position: relative;
-  color: #a83f39 ;
+  color: #350907 ;
 }
 
 
