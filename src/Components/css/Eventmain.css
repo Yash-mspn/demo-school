@@ -1,5 +1,5 @@
 .eventmain-container {
-    background-color:  rgb(54, 53, 53);
+    background-color:  rgb(69, 66, 66);
 }
 
 .eventgrid {
@@ -18,7 +18,7 @@
     border: 1px solid #ddd; /* Border style */
     border-radius: 8px; /* Optional: Rounded corners */
     padding: 20px; /* Adds padding inside each section */
-    background-color: #0d0b88; /* Background color for better visibility */
+    background-color: black; /* Background color for better visibility */
 }
 
 @media (max-width: 768px) {
