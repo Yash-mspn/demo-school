@@ -6,7 +6,7 @@ const Director = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('https://cms.maitretech.com/navniketan/items/director_message?fields=*.*');
+        const response = await fetch('https://cms.mait-retech.com/navniketan/items/director_message?fields=*.*');
         const data = await response.json();
         // Assuming the data structure remains the same, you can access the required information
         const directorInfo = {
@@ -37,7 +37,7 @@ const Director = () => {
           <div className="director-sid-col">
             <h2>Director Message</h2>
             <h6>
-            {directorData.directorMessage}
+            {directorData.director--Message}
             </h6>
           </div>
         </div>

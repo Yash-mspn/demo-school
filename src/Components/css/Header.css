@@ -3,17 +3,17 @@
   width: 100%;
   display: flex;
   /* background-color: #67E0A6; */
-  background-color: #ddd4ff;
+  background-color: #8880a4;
   position: relative;
   overflow: hidden;
   align-items: center;
 }
 .updatesleft {
   width: 10%;
-  color: white;
+  color:  rgb(54, 53, 53);
   font-weight: bold;
   font-family: sans-serif;
-  background-color: #cc2121;
+  background-color: #550505;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -50,7 +50,7 @@
 }
 .upinner a {
   text-decoration: none;
-  color: #0f2b4c;
+  color: #041830;
   font-weight: bold;
   font-family: sans-serif;
   font-size: 12px;
@@ -86,7 +86,7 @@
   height: 150px;
 
   width: 100%;
-  background-color: #02485e;
+  background-color: #0f023a;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -188,7 +188,7 @@
     justify-content: center;
     width: 20%;
     font-size: 30px;
-    color: white;
+    color:  rgb(54, 53, 53);
   }
 
   .tonavbar1 {
