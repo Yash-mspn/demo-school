@@ -37,7 +37,7 @@ const Director = () => {
           <div className="director-sid-col">
             <h2>Director Message</h2>
             <h6>
-            {directorData.director--Message}
+            {directorData.directorMessage}
             </h6>
           </div>
         </div>
