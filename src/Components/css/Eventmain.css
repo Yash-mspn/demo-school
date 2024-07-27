@@ -18,7 +18,7 @@
     border: 1px solid #ddd; /* Border style */
     border-radius: 8px; /* Optional: Rounded corners */
     padding: 20px; /* Adds padding inside each section */
-    background-color: black; /* Background color for better visibility */
+    background-color: whitesmoke; /* Background color for better visibility */
 }
 
 @media (max-width: 768px) {
