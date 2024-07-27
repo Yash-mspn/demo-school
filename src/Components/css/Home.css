@@ -126,7 +126,7 @@
 }
 
 .imgggbox1 {
-  background: url("acd.jpg");
+  background: url("ac--d.jpg");
   background-position: center;
   background-size: cover;
   height: 100%;
@@ -149,7 +149,7 @@
   background: #173866;
 }
 .imgggbox12 {
-  background: url("school.jpg");
+  background: url("school--.jpg");
   background-position: center;
   background-size: cover;
 }
@@ -365,7 +365,7 @@
 
   .fourth_content_box {
     height: auto;
-    background-color: #173866;
+    background-color: #071b36;
     padding: 20px;
     flex-direction: column;
   }
@@ -393,7 +393,7 @@
   .ffslider {
     height: 300px;
     width: 100%;
-    background-color: #03152e;
+    background-color: #173866;
     position: relative;
   }
 

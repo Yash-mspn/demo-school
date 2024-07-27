@@ -4,7 +4,7 @@ import moment from 'moment'
 
 const fetcher = (...args) => fetch(...args).then(res => res.json());
 function Newsevent() {
-    const url = "https://cms.maitr--etech.com/navniketan/items/events?fields=*.*.*";
+    const url = "https://cms.maitretech.com/navniketan/items/events?fields=*.*.*";
 
 
     const { data, error } = useSWR(url, fetcher);
