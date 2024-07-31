@@ -59,9 +59,10 @@ const Footer = () => {
         </div>
 
         <div className="footer-bottom">
-          <p>© All Rights Reserved by, Titans International School</p>
+          <p>© All Rights Reserved by, Titans International School<br>
+          A part of Titans Inc.</br></p>
           <p className="footer-made">
-            Made with <i class=" ri-heart-3-fill"></i> by{" "}
+            Made <i class=" ri-heart-3-fill"></i> by{"Yash Chaubey"}
             <a href="https://www.titans-inc.com/"> Titans Inc</a>
           </p>
         </div>
