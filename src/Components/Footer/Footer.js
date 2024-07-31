@@ -62,7 +62,7 @@ const Footer = () => {
           <p>© All Rights Reserved by, Titans International School</p>
           <p className="footer-made">
             Made with <i class=" ri-heart-3-fill"></i> by{" "}
-            <a href="https://www.titans-inc.com/"> Titans Inc</a>
+            <a href="https://www.titans-inc.com/"> Yash Chaubey</a>
           </p>
         </div>
       </div>
